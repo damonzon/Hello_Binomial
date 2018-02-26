@@ -3,5 +3,5 @@
 ## This app can be run from R using two lines of code.
 ----------------------------------------------------
 ## library(shiny)
-## shiny::runGitHub("Basic_Math", "damonzon")
+## shiny::runGitHub("Hello_Binomial", "damonzon")
 
